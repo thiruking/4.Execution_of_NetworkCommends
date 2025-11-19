@@ -65,7 +65,7 @@ while True:
         c.send(f"Ping failed: {str(e)}".encode())
 ```
 
-## server.py
+## client.py
 ```python
 import socket
 
